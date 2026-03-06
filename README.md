@@ -41,7 +41,7 @@ Masukkan salah satu license key saat pertama kali menjalankan bot:
 ### 3. Jalankan Bot
 
 ```bash
-node public_protected.js
+node adreva.js
 ```
 
 ### 4. Tambah Akun
